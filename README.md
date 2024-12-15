@@ -42,7 +42,7 @@ git clone <https://github.com/lauv108/FinanzasTrack.git>
 Abrir el proyecto en Visual Studio Code.
 
 
-- Compilar y ejecutar la clase principal FinanzasTrack:
+Compilar y ejecutar la clase principal FinanzasTrack:
 
 - 1 paso) javac FinanzasTrack.java
 - 2 paso) java FinanzasTrack
